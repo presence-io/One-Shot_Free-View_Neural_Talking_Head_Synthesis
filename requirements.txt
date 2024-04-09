@@ -1,9 +1,9 @@
 scikit-image==0.17.2
---find-links https://download.pytorch.org/whl/torch_stable.html
+-f https://download.pytorch.org/whl/torch_stable.html 
 torch==1.7.0+cu110
---find-links https://download.pytorch.org/whl/torch_stable.html
+-f https://download.pytorch.org/whl/torch_stable.html 
 torchvision==0.8.0+cu110
---find-links https://download.pytorch.org/whl/torch_stable.html
+-f https://download.pytorch.org/whl/torch_stable.html 
 torchaudio==0.7.0
 tqdm==4.64.1
 imageio-ffmpeg==0.4.9

@@ -1,3 +1,12 @@
+__pycache__
+.ipynb_checkpoints
+asset/output
+ckpt
+flagged
+README.md
+asset/
 data/00000189-checkpoint.pth.tar
 data/00000189-checkpoint.pth/
+data/example_1/
 data/vox-256-spade.yaml
+
